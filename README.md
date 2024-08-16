@@ -1,6 +1,4 @@
-Here’s a README file tailored for your chat application project based on the code and setup you provided:
 
----
 
 # GroupChat - Chat Application
 
